@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SharpMonoInjector.csproj" Id="0080efcb-05a6-4f62-8f2b-a59bbab75d51">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

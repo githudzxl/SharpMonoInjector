@@ -1,0 +1,10 @@
+D:\Visual studio\SharpMonoInjector\bin\Debug\SharpMonoInjector.exe.config
+D:\Visual studio\SharpMonoInjector\bin\Debug\SharpMonoInjector.exe
+D:\Visual studio\SharpMonoInjector\bin\Debug\SharpMonoInjector.pdb
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.csproj.AssemblyReference.cache
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.Gui.Form1.resources
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.Properties.Resources.resources
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.csproj.GenerateResource.cache
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.csproj.CoreCompileInputs.cache
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.exe
+D:\Visual studio\SharpMonoInjector\obj\Debug\SharpMonoInjector.pdb
